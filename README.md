@@ -1,4 +1,4 @@
-# esanskarancardprivacypolicy
+# esanskaran-card-privacy-policy
 
 Welcome to the E-Sanskaran Card app for Android!
 
